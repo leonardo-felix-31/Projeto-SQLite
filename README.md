@@ -31,24 +31,4 @@ O banco de dados contém tabelas como:
 - **`salarios`** (remuneração) 💵  
 - **`beneficios`** (vantagens oferecidas) 🎁  
 
----
-
-## 🤝 Contribuição  
-Contribuições são bem-vindas! Sinta-se à vontade para:  
-- 🐛 **Reportar problemas**  
-- 💡 **Sugerir melhorias**  
-- 🔄 **Enviar pull requests**  
-
----
-
-## 📜 Licença  
-[Inserir tipo de licença aqui, se aplicável]  
-
----
-
-## 📩 Contato  
-[Inserir informações de contato do mantenedor do projeto] ✉️  
-
----  
-
 ✨ **Divirta-se explorando o projeto!** ✨  
