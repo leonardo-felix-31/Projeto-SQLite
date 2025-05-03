@@ -21,11 +21,6 @@ Este projeto consiste em um sistema de **Recursos Humanos (RH)** desenvolvido ut
 
 ---
 
-## 📥 Como Utilizar  
-1. ⬇️ Clone este repositório  
-2. 🛠️ Execute o script SQL para criar o banco de dados  
-3. 🔎 Utilize as consultas pré-definidas ou crie suas próprias consultas  
-
 ---
 
 ## 🏗️ Estrutura do Banco de Dados  
