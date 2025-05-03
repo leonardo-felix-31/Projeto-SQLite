@@ -3,6 +3,7 @@
 ## 📝 Descrição do Projeto  
 Este projeto consiste em um sistema de **Recursos Humanos (RH)** desenvolvido utilizando **SQLite** como banco de dados. O objetivo é gerenciar informações relacionadas a funcionários, departamentos, cargos, folha de pagamento e outros aspectos relevantes para a administração de pessoal em uma organização.  
 
+- Obs: os dados foram obtidos em um dos cursos de formação em SQL da alura.
 ---
 
 ## 🚀 Funcionalidades Principais  
